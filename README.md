@@ -1,7 +1,3 @@
-## Live Demo
-
-**[View Live Preview →](https://sundas27.github.io/aura-dark-ai-saas-landing-template/)**
-
 # Aura — Dark AI SaaS Landing Page Template (Tailwind CSS)
 
 A premium, single-file landing page template for AI SaaS startups. Dark mode first, glassmorphism accents, and smooth micro-interactions — no build step required.
@@ -13,7 +9,7 @@ A premium, single-file landing page template for AI SaaS startups. Dark mode fir
 
 ## Live preview
 
-> Add your deployed URL here after publishing (GitHub Pages, Netlify, or Vercel).
+https://sundas27.github.io/aura-dark-ai-saas-landing-template/
 
 ## Features
 
